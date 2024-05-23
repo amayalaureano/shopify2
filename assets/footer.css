@@ -46,7 +46,7 @@ line-height: 20px!important; /* 166.667% */
 }
 .btn-sus{
   color: #000;
-
+border-radius:0px!important;
 font-family: Inter;
 font-size: 14px;
 font-style: normal;
