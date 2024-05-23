@@ -58,15 +58,15 @@ line-height: 16px; /* 142.222% */
 letter-spacing: 0.12px;
 }
 .btn-sus{
-  color: #000;
+  color: #000!important;
 border-radius:0px!important;
-font-family: Inter;
-font-size: 14px;
-font-style: normal;
-font-weight: 400;
-line-height: 25px; /* 178.571% */
-letter-spacing: 0.4px;
-  width: 194px;
+font-family: Inter!important;
+font-size: 14px!important;
+font-style: normal!important;
+font-weight: 400!important;
+line-height: 25px!important; /* 178.571% */
+letter-spacing: 0.4px!important;
+  width: 194px!important;
   height: 50px !important;
   border: 1px solid white !important;
 color:black!important;
