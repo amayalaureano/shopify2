@@ -94,6 +94,9 @@ footer form{
 }
 @media (min-width: 300px) and (max-width: 750px) {
 
+  .btn-sus{
+width:100%!important;
+  }
   footer form{
   margin-left:0px!important;
 }
