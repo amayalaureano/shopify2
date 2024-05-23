@@ -94,4 +94,11 @@ line-height: 20px!important; /* 166.667% */
   form input {
      width: 100%!important;
   }
+
+  .brd {
+border-right:0px solid white;
+  
+}
+
+  
 }
