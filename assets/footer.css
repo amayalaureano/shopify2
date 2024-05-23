@@ -6,3 +6,7 @@ font-style: normal!important;
 font-weight: 400!important;
 line-height: 20px!important;
 }
+
+.row .col-lg-2{
+  height:1245px;
+}
