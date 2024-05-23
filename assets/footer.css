@@ -10,7 +10,7 @@ line-height: 20px!important;
 .row .col-lg-2{
   height:260px;
 }
-
+.f_h3{
 color: #FFF;
 font-family: Roboto;
 font-size: 16px;
@@ -18,3 +18,10 @@ font-style: normal;
 font-weight: 700;
 line-height: 20px; /* 125% */
 letter-spacing: -0.16px;
+}
+
+footer input {
+  border: 1px solid #FFF;
+
+background: #000;
+}
