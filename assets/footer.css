@@ -1,3 +1,11 @@
+.general-row{
+  border-bottom:1px solid white!important; border-top: 1px solid white!important;
+}
+
+.brd {
+border-right:1px solid white;
+  
+}
 .links a{
   color: #FFF;
 font-family: Inter!important;
