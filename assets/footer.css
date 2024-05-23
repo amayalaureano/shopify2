@@ -98,6 +98,10 @@ footer form{
   margin-left:0px!important;
 }
 
+
+  .row .col-lg-2{
+  height:200px!important;
+}
   
   form input {
      width: 100%!important;
