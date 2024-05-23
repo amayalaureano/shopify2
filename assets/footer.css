@@ -89,8 +89,16 @@ font-style: normal!important;
 font-weight: 400!important;
 line-height: 20px!important; /* 166.667% */
 }
-
+footer form{
+  margin-left:95px;
+}
 @media (min-width: 300px) and (max-width: 750px) {
+
+  footer form{
+  margin-left:0px!important;
+}
+
+  
   form input {
      width: 100%!important;
   }
