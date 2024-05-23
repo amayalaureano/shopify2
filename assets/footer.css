@@ -45,10 +45,10 @@ line-height: 20px!important; /* 166.667% */
   width: 503px!important;
 }
 .btn-sus{
-  height: 50px;
-  border: 1px solid #FFF;
-color:black;
-background: #FFF;
+  height: 50px !important;
+  border: 1px solid white !important;
+color:black!important;
+background: white !important;
 }
 footer input:placeholder {
   color: #949393!important;
