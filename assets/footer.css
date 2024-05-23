@@ -1,3 +1,8 @@
-.bootstrap-footer {
- background-color:red;
+.links a{
+  color: #FFF;
+font-family: Inter!important;
+font-size: 13.234px!important;
+font-style: normal!important;
+font-weight: 400!important;
+line-height: 20px!important;
 }
