@@ -31,6 +31,7 @@ font-size: 12px!important;
 font-style: normal!important;
 font-weight: 400!important;
 line-height: 20px!important; /* 166.667% */
+  width: 503px!important;
 }
 
 footer input:placeholder {
