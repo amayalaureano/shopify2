@@ -44,7 +44,12 @@ font-weight: 400!important;
 line-height: 20px!important; /* 166.667% */
   width: 503px!important;
 }
-
+.btn-sus{
+  height: 50px;
+  border: 1px solid #FFF;
+color:black;
+background: #FFF;
+}
 footer input:placeholder {
   color: #949393!important;
 
