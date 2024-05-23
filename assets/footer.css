@@ -24,4 +24,21 @@ footer input {
   border: 1px solid #FFFFFF!important;
 
 background: black!important;
+  color: #949393;
+height: 50px;
+font-family: Inter;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; /* 166.667% */
+}
+
+footer input:placeholder {
+  color: #949393;
+
+font-family: Inter;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; /* 166.667% */
 }
