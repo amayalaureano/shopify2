@@ -8,5 +8,13 @@ line-height: 20px!important;
 }
 
 .row .col-lg-2{
-  height:290px;
+  height:260px;
 }
+
+color: #FFF;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 20px; /* 125% */
+letter-spacing: -0.16px;
