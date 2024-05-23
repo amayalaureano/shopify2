@@ -21,7 +21,7 @@ letter-spacing: -0.16px;
 }
 
 footer input {
-  border: 1px solid #FFF;
+  border: 1px solid #FFFFFF!important;
 
-background: #000;
+background: black!important;
 }
