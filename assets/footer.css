@@ -30,7 +30,9 @@ font-weight: 400!important;
 line-height: 25px!important; /* 125% */
 letter-spacing: 0.4px!important;
 }
-
+.section-sections--16269646069820__footer-padding {
+padding-bottom:5px!important;
+}
 footer input {
   border: 1px solid #FFFFFF!important;
 
